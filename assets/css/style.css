@@ -94,16 +94,19 @@ body {
 
 .benefits p {
     font-size: 18px;
+    text-align: center;
 }
 
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
+    font-size: 28px;
 }
 
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
+    font-size: 28px;
 }
 
 .benefit-cost {
